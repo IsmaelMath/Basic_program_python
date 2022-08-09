@@ -1,3 +1,5 @@
+# Função média com périodo
+
 def media(lista_numeros, periodo):
     x = 0
     media_dinamica = []
